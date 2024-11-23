@@ -12,4 +12,4 @@ This repository contains a simple **Number Guessing Game** implemented in C. The
 ## How to Run
 1. Clone this repository:
    ```bash
-
+https://github.com/TSABirla/NUMBER-GUESSING-GAME/blob/main/README.md
