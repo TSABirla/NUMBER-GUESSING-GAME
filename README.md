@@ -12,16 +12,4 @@ This repository contains a simple **Number Guessing Game** implemented in C. The
 ## How to Run
 1. Clone this repository:
    ```bash
-## Sample output
-  Guess the number (1 to 100):
-50
-Too high
-Guess the number (1 to 100):
-25
-Too low
-Guess the number (1 to 100):
-30
-Too high
-Guess the number (1 to 100):
-27
-You guessed the number in 4 attempts!
+
